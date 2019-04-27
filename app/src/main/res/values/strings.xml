@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">1606020053LeVanSon</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="id">Id</string>
+    <string name="subjectname">Subject Name</string>
+    <string name="credits">Credits</string>
+    <string name="description">Description</string>
+    <string name="subjectcode">subject code</string>
+    <string name="Productname">Product Name</string>
+    <string name="Product">Price</string>
+    <string name="producer">producter</string>
+    <string name="add_new_product">Add New Product</string>
+    <string name="save">Save</string>
+</resources>
